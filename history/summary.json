@@ -4,17 +4,17 @@
     "url": "https://ips.nopapercloud.com.br/Sistema/Login.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/ips.nopapercloud.com.br.ico",
     "slug": "agape",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1665,
-    "timeDay": 861,
-    "timeWeek": 728,
-    "timeMonth": 1665,
-    "timeYear": 1665,
+    "time": 1632,
+    "timeDay": 787,
+    "timeWeek": 726,
+    "timeMonth": 1632,
+    "timeYear": 1632,
     "dailyMinutesDown": {}
   }
 ]
